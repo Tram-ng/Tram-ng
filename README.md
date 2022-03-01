@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🌱 Hi there, I'm Tram 👋 \n
+🌱 Hi there, I'm Tram 👋   
 
-A Computer Science Junior in San Jose State University \n
+A Computer Science Junior in San Jose State University   
 👀 Curious about everything in Software Engineering
 
  ✨ Things I like to do: 
