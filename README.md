@@ -8,7 +8,7 @@ A Computer Science Junior in San Jose State University
  ✨ Things I like to do:   
 Building projects in hereee  
 Solving Problems   
-Learning new tech things 🥸  
+Learning new tech things
   
  ✨ I’m currently working on:  
   
@@ -16,7 +16,7 @@ Learning new tech things 🥸
 100 days of code challenge/ Python bootcamp  
 Full-Stack Development Udemy course   
 Leetcode practice with the other students at Google Developer Students club SJSU  
-How to use GitHub 🤔🤖  
+
   
 🪴 In school:  
 Information Security  
