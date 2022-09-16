@@ -26,7 +26,7 @@ Formal Languages and Computability
   
 📫 How to reach me:   
 Email: yentram17@gmail.com  
-LinkedIn:linkedin.com/in/tramwin  
+LinkedIn:linkedin.com/in/tramnguyen10 
 
 
 
