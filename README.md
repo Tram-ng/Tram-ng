@@ -1,32 +1,11 @@
 ### Hi there 👋
 
-🌱 Hi there, I'm Tram 👋   
+Hi, I'm Tram 👋   
 
-A Computer Science Junior in San Jose State University   
-👀 Curious about everything in Software Engineering  
-  
- ✨ Things I like to do:   
-Building projects in hereee  
-Solving Problems   
-Learning new tech things
-  
- ✨ I’m currently working on:  
-  
- 🪴 In my spare time:   
-100 days of code challenge/ Python bootcamp  
-Full-Stack Development Udemy course   
-Leetcode practice with the other students at Google Developer Students club SJSU  
-
-  
-🪴 In school:  
-Information Security  
-Formal Languages and Computability   
-  
-🤔 I’m looking for help with good projects ideas that have high applicability in real life for a newbie like me.     
-  
+A Computer Science Junior in San Jose State University.
 📫 How to reach me:   
 Email: yentram17@gmail.com  
-LinkedIn:linkedin.com/in/tramnguyen10 
+LinkedIn:https://www.linkedin.com/in/tramnguyen45/
 
 
 
