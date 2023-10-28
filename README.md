@@ -5,7 +5,7 @@ Hi, I'm Tram 👋
 A Computer Science Junior at San Jose State University.
 📫 How to reach me:   
 Email:tram.x.nguyen@sjsu.edu
-LinkedIn:https://www.linkedin.com/in/tramnguyen26/
+LinkedIn:https://www.linkedin.com/in/xuanyentram/
 
 
 
